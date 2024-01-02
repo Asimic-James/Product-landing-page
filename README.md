@@ -1,2 +1,2 @@
 # Product-landing-page
-*This project is part of my Certification Project on FreecodeCamp Responsive Web Design Projects, was functionally built with markup syntax and styles attributes*
+*This project was built in partial fuflfillment to my Certification Project on FreecodeCamps' Responsive Web Design Projects, solely with markup syntax and styles attributes*
